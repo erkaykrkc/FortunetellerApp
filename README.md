@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>Aşk Durumu Ekran Görüntüsü</td>
-     <td>Para Durumu Ekran Görüntüsü </td>
-     <td>Günlük Tavsiye Ekran Görüntüsü</td>
+     <td>Günlük Tavsiye Ekran Görüntüsü </td>
+     <td>Para Durumu Ekran Görüntüsü</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/50543193/136590557-72075ed8-a7e4-4ee5-8d3a-efaef9d77bbe.png" width=320 height=600></td>
