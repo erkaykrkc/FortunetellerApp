@@ -1,4 +1,4 @@
-# Günük Fal Uygulaması
+# Günlük Fal Uygulaması
 
 <table>
   <tr>
